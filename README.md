@@ -6,10 +6,10 @@ I architect, innovate and build high-impact software solutions that solve comple
 * Mentored and Coached 100+ Engineers and Architects. Wrote 1.3+ million lines of code in Java and other languages.
 * **Data:** AI, Big Data, Data Lake, Lakehouse, Data Engineering, Data Governance
 * **Security:** IAM, CSPM, DSPM, ASPM, Cloud Security, Data Security, App Security, SAST, SCA, DevSecOps, Security At Scale and compliance (NIST, ISO, HIPAA..)
-* Domain knowledge in Data, Analytics, Security, Banking, Payments, Commercial Banking, eCommerce, SaaS and Enterprise Solutions.
+* Domain knowledge in Data, Security, Banking, Payments, Commercial Banking, eCommerce, SaaS and Enterprise Solutions.
 
 ## Ex-Employers and Customers
-* Intuit, Amazon, Citi Bank, Bloomberg, E*Trade, Fannie Mae, McDonalds, Verizon, Market America, NorthBay Solutions
+* **Intuit, Amazon, Citi Bank, Bloomberg, E*Trade, Fannie Mae, McDonalds, Verizon, Market America, NorthBay Solutions**
 
 ## Technical Skills
 | **Languages** | Java 21, Scala, Rust (Interest), Python3.12, Functional, OOP, SOLID, XP, JavaScript, JSP, SQL, ColdFusion, Bash, C++, C, Cobol, gRPC, REST, JSON, YAML, XML, XSLT, WSDL, SOAP, HTML5 and CSS |
@@ -45,7 +45,7 @@ I architect, innovate and build high-impact software solutions that solve comple
 * Lead Software Engineer at Intuit. Designed and Built Commercial Banking product software and deployed to top 50 banks - BofA, BMO, Regions, Zions, BBVA
 
 ## Hobbies
-* Technology, Distributed Systems, AI, Programming, Economics, Traveling, Health and Nutrition, Gym, Playing Volleyball, Raquetball and Pickleball 
+* Technology, Distributed Systems, AI, Coding, Economics, Traveling, Health and Nutrition, Gym, Playing Volleyball, Raquetball and Pickleball 
 
 <!--
 **jeugene/jeugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
