@@ -32,9 +32,9 @@ I architect, innovate and build high-impact software solutions that solve comple
 
 ## Work Experience
 ### 2015 to Present
-* Led, mentored and managed 100+ Engineers and Architects though various projects. Spearheaded product roadmaps and strategic initiatives for diverse solutions, aligning engineering efforts with long-term business goals.
-* AI, Data, Security, DevOps and DevSecOps architecture work. Designed robust Data Lake and Lakehouse solutions, integrating CSPM, DSPM frameworks to ensure top-tier security and compliance.
-* Designed and built an AWS Product Acclerator for Big Data and DevOps IaC that reduces AWS Customer journey from 2 years to 2 months deployments. Built 150+ AWS Lambdas for various solutions. 
+* Spearheaded product roadmaps and strategic initiatives for diverse solutions, aligning engineering efforts with business goals. Led, mentored, and managed 100+ Engineers and Architects to drive significant improvements in delivery speed and quality.
+* Architected secure, multi-tenant AI, Data Lake and Lakehouse solutions, leveraging CSPM and DSPM to mitigate cloud security risks and streamline regulatory compliance.
+* Designed and built an AWS Product Acclerator for Data and DevOps IaC, accelerating the customer deployment journey by 90% (from 2 years to 2 months), Engineered a core library of 150+ AWS Lambda functions to automate complex cloud workflows.
 * Built an [Apache Spark](https://spark.apache.org/) wrapper framework in Scala and Java 17. Built and deployed advanced spark jobs in AWS Elastic Map Reduce
 * Designed and built an AWS data pipeline solution that ingests 300+ billion stock market trading data in 8-10 hours per day. This uses S3, SQS, Lambda, Glue and Snowflake   
 
