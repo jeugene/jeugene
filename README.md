@@ -12,15 +12,15 @@ I architect, innovate and build high-impact software solutions that solve comple
 * **Intuit, Amazon, Citi Bank, Bloomberg, E*Trade, Fannie Mae, McDonalds, Verizon, Market America, NorthBay Solutions**
 
 ## Technical Skills
-| **Languages** | Java 21, Scala, Rust (Interest), Python3.12, Functional, OOP, SOLID, XP, JavaScript, JSP, SQL, ColdFusion, Bash, C++, C, Cobol, gRPC, REST, JSON, YAML, XML, XSLT, WSDL, SOAP, HTML5 and CSS |
+| **Languages** | Java 21, Scala, Python3.12, Rust (Interest), Functional, OOP, SOLID, XP, JavaScript, JSP, SQL, C++, C, Bash, Cobol, ColdFusion, gRPC, REST, JSON, SOAP, WSDL, YAML, XML, XSLT, HTML5 and CSS |
 | :--- | :--- |
 | **Cloud Platform** | AWS: 55+ Services - IAM, VPC, APIs, S3, KMS, Route53, ELB, CloudFront, EC2, Lambda, API Gateway, Secrets, DynamoDB, Redshift, RDS, Aurora, MSK, Kinesis, EventBridge, SQS, SNS, SES, EMR, Glue, AppFlow, MWAA, LakeFormation, Athena, DMS, Comprehend, QuickSight, CloudWatch, CloudTrail, CloudFormation, Terraform, Service Catalog, Config, Systems Manager, CodeBuild, CodePipeline and moreGCP: AppEngine, GCS, BigQuery, DataProc |
-| **Data & AI** | AI: GenAI, LLM, RAG, Claude, AWS Bedrock, MCP, Strands, KiroData: Data Mesh, Lakehouse, Governance, Security, Catalog, Discovery, Classification, Lineage, Medallion, OLTP/OLAP, ETL/ELT, Apache Spark, Iceberg, Flink, Kafka, Airflow, RDBMS, NoSQL, Presto, Druid, Ignite, Hadoop, Hive, HDFS, Ranger, Atlas, Oozie, Zookeeper, Zeppelin |
+| **Data & AI** | **AI:** GenAI, LLM, RAG, Claude, AWS Bedrock, MCP, Strands, Kiro <br>**Data:** Data Mesh, Lakehouse, Governance, Security, Catalog, Discovery, Classification, Lineage, Medallion, OLTP/OLAP, ETL/ELT, Apache Spark, Iceberg, Flink, Kafka, Airflow, RDBMS, NoSQL, Presto, Druid, Ignite, Hadoop, Hive, HDFS, Ranger, Atlas, Oozie, Zookeeper, Zeppelin |
 | **Security** | CISSP candidate, Zero Trust, Product Security, AI Security, SaaS, NIST, PCI, GDPR, IAM, RBAC, ABAC, NetSec, CSPM, DSPM, ASPM, SIEM, AWS Cloud Security, Data Security, DLP, SSO, OKTA, PingFederate, DevSecOps, SSDLC, SAST, SCA, OWASP, Kubernetes, Container Security, SonarQube, NexusIQ, Anchore, Prisma Cloud |
 | **Databases** | Snowflake, Redshift, Cassandra, BigQuery, DynamoDb, Postgres, MySQL, Oracle, MongoDB, MSSQL, HSQLDB, DB2 |
 | **Frameworks** | J2EE, SOA, Microservices, EDA, Lambda, SMACK, Security standards, TDD, BDD, JUnit5, ScalaTest, PyTest, Hibernate, Spring Framework, Jackson, JSF2, JAX-RS, JAX-WS, JMS, EJB3, Ehcache, Apache Commons, Apache Solr, Apache Lucene, Log4J, SL4J, MVC, PrimeFaces, RichFaces, iText, Struts, Tiles, Vue, jQuery, Angular, ExtJS, Backbone, FW1, Model-Glue, Fusebox |
 | **App Servers** | Tomcat, Wildfly, JBoss, WebSphere, Weblogic, WebObjects, JRun, Jetty, ColdFusion 10, BlueDragon |
-| **Software Tools** | Kiro, VSCode, IntelliJ, Eclipse, CI/CD,Jenkins, JBoss, Spring, Maven, Gradle, GIT, ANT, Subversion, JIRA/Confluence, SonarQube, Nexus, Apache, IIS, JMeter, Harvest, Perforce, Toad, Grinder, Dreamweaver, Director, Client Access, Install Shield, Microsoft office |
+| **Software Tools** | VSCode, Kiro, IntelliJ, Eclipse, CI/CD, Jenkins, JBoss, Spring, Maven, Gradle, GIT, ANT, Subversion, JIRA/Confluence, SonarQube, Nexus, Apache, IIS, JMeter, Harvest, Perforce, Toad, Grinder, Dreamweaver, Director, Client Access, Install Shield, Microsoft office |
 | **OS** | Linux, CentOS, Ubuntu, MacOS, Windows 11, DOS, AS400 |
 
 ## Certifications
