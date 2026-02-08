@@ -1,12 +1,12 @@
 ## About Me
 I architect, innovate and build high-impact software solutions that solve complex business challenges. Hands-on customer-obsessed leader, principal solutions architect and engineer with 21+ years experience. Expert in data, security, digital transformations, cloud migrations, building secure, event-driven, high-throughput, fault-tolerant, resilient and self-healing distributed cloud solutions. 11th consecutive year in building AWS Cloud Solutions for Customers!
-* Advisor, Technophile, Developer Advocate, Mentor, Researcher
+* **Advisor, Technophile, Developer Advocate, Mentor, Researcher**
 * Broad experience in product strategy, product vision, roadmap and agile project execution
-* Hands-on Cloud Architect, Data Architect, Security Architect, Java Architect, DevOps Architect
-* Mentored and Coached 100+ Engineers and Architects. Wrote 1+ million lines of code in Java and other languages.
+* **Hands-on Cloud Architect, Data Architect, Security Architect, Java Architect, DevOps Architect**
+* **Mentored and Coached 100+ Engineers and Architects. Wrote 1+ million lines of code in Java and other languages**
 * **Data** expertise in AI, Big Data, Data Lake, Lakehouse, Data Engineering, Data Governance
 * **Security** expertise in IAM, CSPM, DSPM, ASPM, Cloud Security, Data Security, App Security, SAST, SCA, DevSecOps, Security At Scale and compliance (NIST, ISO, HIPAA..)
-* Domain knowledge in Banking, Payments, Commercial Banking, Healthcare, eCommerce, SaaS, Enterprise Solutions.
+* Domain knowledge in Finance, Payments, Commercial Banking, Healthcare, eCommerce, SaaS, Enterprise Solutions.
 
 ## Ex-Employers and Customers
 * **Intuit, Amazon, Citi Bank, Bloomberg, E*Trade, Fannie Mae, McDonalds, Verizon, Market America, NorthBay Solutions**
@@ -42,7 +42,7 @@ I architect, innovate and build high-impact software solutions that solve comple
 * Java Architect and SME for various consulting engagements
 
 ## 2005 to 2010
-* Lead Software Engineer and SME at Intuit. Designed and Built a Commercial Banking SaaS product software with ACH, Wire Transfer, Risk Mitigation modules. The solution transacts 100+ million dollars a day. The solution was deployed to top 50 banks like BofA, BMO, Regions, Zions, BBVA.
+* Lead Software Engineer and SME at Intuit. Designed and built a Commercial Banking SaaS product software with ACH, Wire Transfer, Risk Mitigation etc modules. The solution transacts 100+ million dollars a day. The solution was deployed to top 50 banks like BofA, BMO, Regions, Zions, BBVA. The tech stack is Java, C++, ORM/Hibernate, Oracle/MSSQL Databases and deployed in WebSphere and JBoss App Servers.
 
 ## Hobbies
 * Technology, Distributed Systems, AI, Coding, Economics, Traveling, Health and Nutrition, Gym, Playing Volleyball, Raquetball and Pickleball 
