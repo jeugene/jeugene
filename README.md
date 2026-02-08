@@ -32,9 +32,9 @@ I architect, innovate and build high-impact software solutions that solve comple
 
 ## Work Experience
 ### 2015 to Present
-* **Leadership & Strategy:** Led, mentored and managed 100+ Engineers and Architects in various projects. Spearheaded product roadmaps and strategic initiatives for diverse solutions, aligning engineering efforts with long-term business goals.
-* **AWS Cloud Architecture:**  AI, Data, Security, DevOps and DevSecOps architecture work. Designed robust Data Lake and Lakehouse solutions, integrating CSPM, DSPM frameworks to ensure top-tier security and compliance.
-* Designed and built an AWS Core framework, AWS Product Acclerator for Big Data and IaC in Cloudformation and Terraform which automated 80% of AWS Services. Built 150+ AWS Lambdas for various solutions. 
+* Led, mentored and managed 100+ Engineers and Architects though various projects. Spearheaded product roadmaps and strategic initiatives for diverse solutions, aligning engineering efforts with long-term business goals.
+* AI, Data, Security, DevOps and DevSecOps architecture work. Designed robust Data Lake and Lakehouse solutions, integrating CSPM, DSPM frameworks to ensure top-tier security and compliance.
+* Designed and built an AWS Product Acclerator for Big Data and DevOps IaC that reduces AWS Customer journey from 2 years to 2 months deployments. Built 150+ AWS Lambdas for various solutions. 
 * Built an [Apache Spark](https://spark.apache.org/) wrapper framework in Scala and Java 17. Built and deployed advanced spark jobs in AWS Elastic Map Reduce
 * Designed and built an AWS data pipeline solution that ingests 300+ billion stock market trading data in 8-10 hours per day. This uses S3, SQS, Lambda, Glue and Snowflake   
 
@@ -42,7 +42,7 @@ I architect, innovate and build high-impact software solutions that solve comple
 * Java Architect and SME for various consulting engagements
 
 ## 2005 to 2010
-* Lead Software Engineer at Intuit. Designed and Built Commercial Banking product software and deployed to top 50 banks - BofA, BMO, Regions, Zions, BBVA
+* Lead Software Engineer and SME at Intuit. Designed and Built a Commercial Banking SaaS product software with ACH, Wire Transfer, Risk Mitigation modules. The solution transacts 100+ million dollars a day. The solution was deployed to top 50 banks like BofA, BMO, Regions, Zions, BBVA.
 
 ## Hobbies
 * Technology, Distributed Systems, AI, Coding, Economics, Traveling, Health and Nutrition, Gym, Playing Volleyball, Raquetball and Pickleball 
