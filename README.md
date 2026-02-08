@@ -32,8 +32,8 @@ I help innovate and build software products. Hands-on customer-obsessed leader, 
 
 ## Work Experience
 ### 2015 to Present
-* Led, mentored and managed 100+ Engineers and Architects in various projects. Built product roadmaps and strageties for many solutions
-* AWS AI, Data, Security, DevOps and DevSecOps architecture work - Data Lake, Lakehouse, CSPM, DSPM etc Built software in Java, Scala and Python languages and deployed to AWS services
+* **Leadership & Strategy:** Led, mentored and managed 100+ Engineers and Architects in various projects. Spearheaded product roadmaps and strategic initiatives for diverse solutions, aligning engineering efforts with long-term business goals.
+* **AWS Cloud Architecture:**  AI, Data, Security, DevOps and DevSecOps architecture work. Designed robust Data Lake and Lakehouse solutions, integrating CSPM, DSPM frameworks to ensure top-tier security and compliance.
 * Designed and built an AWS Core framework, AWS Product Acclerator for Big Data and IaC in Cloudformation and Terraform which automated 80% of AWS Services. Built 150+ AWS Lambdas for various solutions. 
 * Built an [Apache Spark](https://spark.apache.org/) wrapper framework in Scala and Java 17. Built and deployed advanced spark jobs in AWS Elastic Map Reduce
 * Designed and built an AWS data pipeline solution that ingests 300+ billion stock market trading data in 8-10 hours per day. This uses S3, SQS, Lambda, Glue and Snowflake   
