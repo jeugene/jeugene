@@ -42,7 +42,7 @@ I architect, innovate and build secure high-impact software solutions that solve
 * Sr. Java Architect and SME for various consulting engagements
 
 ## 2005 to 2010
-* Lead Software Engineer and SME at Intuit. Designed and built a Commercial Banking SaaS product software with ACH, Wire Transfer, Risk Mitigation etc modules. The solution transacts 100+ million dollars a day. The solution was deployed to top 50 banks like BofA, BMO, Regions, Zions, BBVA. The tech stack is Java, C++, ORM/Hibernate, Oracle/MSSQL Databases and deployed in WebSphere and JBoss App Servers.
+* I led the end-to-end design and delivery of Intuit’s Commercial Banking SaaS suite. Serving as the Lead Software Development Engineer (SDE) and Subject Matter Expert (SME), I oversaw the development of core financial modules—including ACH, Wire Transfer, and Risk Mitigation that process $100+ milion in daily transaction volume. My focus was on architecting secure, scalable systems for major global institutions such as Bank of America, BMO, Regions, Zions, Compass leveraging a deep tech stack of Java, C++, Oracle, MS SQL Server, and enterprise middleware.
 
 ## Hobbies
 * Technology, Distributed Systems, AI, Coding, Economics, Traveling, Health and Nutrition, Gym, Playing Volleyball, Raquetball and Pickleball 
