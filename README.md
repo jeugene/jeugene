@@ -9,7 +9,7 @@ I lead, architect, innovate and build secure high-impact software solutions that
 * Domain knowledge in Finance, Payments, Commercial Banking, Healthcare, eCommerce, SaaS, Enterprise Solutions.
 
 ## Ex-Employers and Customers
-* **Intuit, Amazon, Citi Bank, Bloomberg, E*Trade, Fannie Mae, McDonalds, Verizon, Market America, NorthBay Solutions**
+* **Intuit, Amazon, Citi Bank, Bloomberg, Publicis Sapient, E*Trade, Fannie Mae, McDonalds, Verizon, Market America**
 
 ## Technical Skills
 | **Languages** | [Java 21](https://aws.amazon.com/corretto/), [Python3.12](https://www.python.org/), [Scala](https://www.scala-lang.org/), [Rust](https://rust-lang.org/) (Interest), [Functional, OOP](https://bytebytego.com/guides/top-8-programming-paradigms/), [SOLID](https://en.wikipedia.org/wiki/SOLID), [XP](https://en.wikipedia.org/wiki/Extreme_programming_practices), JavaScript, JSP, SQL, C++, C, Bash, Cobol, ColdFusion, gRPC, REST, JSON, SOAP, WSDL, YAML, XML, XSLT, HTML5 and CSS |
