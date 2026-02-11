@@ -1,6 +1,6 @@
 ## About Me
 I lead, architect, innovate and build secure high-impact software solutions that solve complex business challenges. Hands-on customer-obsessed leader, principal solutions architect and engineer with 21+ years experience. Expert in data, security, digital transformations, cloud migrations, building secure, event-driven, high-throughput, fault-tolerant, resilient and self-healing distributed cloud solutions. 11th consecutive year in building AWS Cloud Solutions for Customers!
-* **Advisor, Technophile, Developer Advocate, Mentor, Researcher**
+* **Advisor, Technophile, Engineer, Mentor, Researcher**
 * Broad experience in product strategy, product vision, roadmap and agile project execution
 * **Hands-on Cloud Architect, Data Architect, Security Architect, Java Architect, DevOps Architect**
 * **Mentored and Coached 100+ Engineers and Architects. Wrote 1+ million lines of code in Java and other languages**
