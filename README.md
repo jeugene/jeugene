@@ -9,7 +9,7 @@ I lead, architect, innovate and build secure high-impact software solutions that
 * Domain knowledge in Finance, Payments, Commercial Banking, Healthcare, eCommerce, SaaS, Enterprise Solutions.
 
 ## Ex-Employers and Customers
-* **Intuit, Amazon, Citi Bank, Bloomberg, Publicis Sapient, E*Trade, Fannie Mae, McDonalds, Verizon, Market America**
+* **Intuit, Amazon, Citi Bank, Bloomberg, Publicis, E*Trade, Fannie Mae, McDonalds, Verizon, Market America**
 
 ## Technical Skills
 | **Languages** | [Java 21](https://aws.amazon.com/corretto/), [Python3.12](https://www.python.org/), [Scala](https://www.scala-lang.org/), [Rust](https://rust-lang.org/) (Interest), [Functional, OOP](https://bytebytego.com/guides/imperative-vs-functional-vs-object-oriented-programming/), [SOLID](https://en.wikipedia.org/wiki/SOLID), [XP](https://en.wikipedia.org/wiki/Extreme_programming_practices), JavaScript, JSP, SQL, C++, C, Bash, Cobol, ColdFusion, gRPC, REST, JSON, SOAP, WSDL, YAML, XML, XSLT, HTML5 and CSS |
@@ -43,6 +43,9 @@ I lead, architect, innovate and build secure high-impact software solutions that
 
 ## 2005 to 2010
 * I led the end-to-end design and delivery of Intuit’s Commercial Banking SaaS suite. Serving as the Lead Software Development Engineer (SDE) and Subject Matter Expert (SME), I led the development of core financial modules—including ACH, Wire Transfer, and Risk Mitigation that process $100+ milion in daily transaction volume. My focus was on architecting secure, scalable systems for major global institutions such as Bank of America, BMO, Regions, Zions, Compass leveraging a deep tech stack of Java, C++, Oracle, MS SQL Server, and enterprise middleware.
+
+## Favorite Tech Books
+* Enterprise Integration Patterns, Domain Driven Design, The Software Architect Elevator, Designing Data-Intensive Applications, Building Microservices, System Design, Head First Design Patterns, Design Patterns GoF, Effective Java, Refactoring: Improving the Design of Existing Code 
 
 ## Hobbies
 * Technology, Distributed Systems, AI, Coding, Economics, Traveling, Health and Nutrition, Gym, Playing Volleyball, Raquetball and Pickleball 
