@@ -48,7 +48,7 @@ I lead, architect, innovate and build secure high-impact software solutions that
 * Enterprise Integration Patterns, Domain Driven Design, The Software Architect Elevator, Designing Data-Intensive Applications, Building Microservices, System Design, Head First Design Patterns, Design Patterns GoF, Effective Java, Refactoring: Improving the Design of Existing Code 
 
 ## Hobbies
-* Technology, Distributed Systems, AI, Coding, Economics, Traveling, Health and Nutrition, Gym, Playing Volleyball, Raquetball and Pickleball 
+* Technology, Distributed Systems, AI, Coding, Economics, Traveling, Health and Nutrition, Gym, Volleyball, Raquetball and Pickleball 
 
 <!--
 **jeugene/jeugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
