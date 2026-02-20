@@ -1,4 +1,5 @@
-## About Me <div style="text-align:right;"><a href="https://calendly.com/joe-eugene">Book An Appointment</a></div>
+## About Me
+<a href="https://calendly.com/joe-eugene">Book An Appointment</a><br>
 I lead, architect, innovate and build secure high-impact software solutions that solve complex business challenges. Hands-on customer-obsessed leader, principal solutions architect and engineer with 21+ years experience. Expert in data, security, digital transformations, cloud migrations, building secure, event-driven, high-throughput, fault-tolerant, resilient and self-healing distributed cloud solutions. 11th consecutive year in building AWS Cloud Solutions for Customers!
 * **Advisor, Technophile, Engineer, Mentor, Researcher**
 * Broad experience in product strategy, product vision, roadmap and agile project execution
