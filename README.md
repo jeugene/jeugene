@@ -4,7 +4,7 @@ I lead, architect, innovate and build secure high-impact software solutions that
 * **Advisor, Technophile, Engineer, Mentor, Researcher**
 * Broad experience in product strategy, product vision, roadmap and agile project execution
 * **Hands-on Cloud Architect, Data Architect, Security Architect, Java Architect, DevOps Architect**
-* **Mentored and Coached 100+ Engineers and Architects. Wrote 1+ million lines of code in Java and other languages**
+* **Mentored and Coached 100+ Engineers and Architects. Authored 1+ million lines of code in Java and other languages**
 * **Data** expert in AI, Big Data, Data Lake, Lakehouse, Data Engineering, Data Governance
 * **Security** expert in IAM, CSPM, DSPM, ASPM, Cloud Security, Data Security, App Security, SAST, SCA, DevSecOps, Security At Scale and compliance (NIST, ISO, HIPAA..)
 * Domain knowledge in Finance, Payments, Commercial Banking, Healthcare, eCommerce, SaaS, Enterprise Solutions.
