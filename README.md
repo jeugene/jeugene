@@ -1,5 +1,5 @@
 ## About Me
-<a href="https://calendly.com/joe-eugene" target="_blank">Book An Appointment</a><br>
+<!--<a href="https://calendly.com/joe-eugene" target="_blank">Book An Appointment</a><br> -->
 I lead, architect, innovate and build secure high-impact software solutions that solve complex business challenges. Hands-on customer-obsessed leader, principal solutions architect and engineer with 21+ years experience. Expert in data, security, digital transformations, cloud migrations, building secure, event-driven, high-throughput, fault-tolerant, resilient and self-healing distributed cloud solutions. 11th consecutive year in building AWS Cloud Solutions for Customers!
 * **Advisor, Technophile, Engineer, Mentor, Researcher**
 * Broad experience in product strategy, product vision, roadmap and agile project execution
@@ -10,7 +10,7 @@ I lead, architect, innovate and build secure high-impact software solutions that
 * Domain knowledge in Finance, Payments, Commercial Banking, Healthcare, eCommerce, SaaS, Enterprise Solutions.
 
 ## Ex-Employers and Customers
-* **Intuit, Amazon, Citi Bank, Bloomberg, Publicis, E*Trade, Fannie Mae, McDonalds, Verizon, Market America**
+* **Intuit, Amazon, Citi Bank, Bloomberg, Publicis, E*Trade, Fannie Mae, United Healthcare, McDonalds, Verizon, Market America**
 
 ## Technical Skills
 | **Languages** | [Java 21](https://aws.amazon.com/corretto/), [Python3.12](https://www.python.org/), [Scala](https://www.scala-lang.org/), [Rust](https://rust-lang.org/) (Interest), [Functional, OOP](https://bytebytego.com/guides/imperative-vs-functional-vs-object-oriented-programming/), [SOLID](https://en.wikipedia.org/wiki/SOLID), [XP](https://en.wikipedia.org/wiki/Extreme_programming_practices), JavaScript, JSP, SQL, C++, C, Bash, Cobol, ColdFusion, gRPC, REST, JSON, SOAP, WSDL, YAML, XML, XSLT, HTML5 and CSS |
