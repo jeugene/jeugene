@@ -2,7 +2,7 @@
 <!--<a href="https://calendly.com/joe-eugene" target="_blank">Book An Appointment</a><br> -->
 I lead, architect, innovate and build secure high-impact software solutions that solve complex business challenges. Hands-on customer-obsessed leader, principal solutions architect and engineer with 21+ years experience. Expert in data, security, digital transformations, cloud migrations, building secure, event-driven, high-throughput, fault-tolerant, resilient and self-healing distributed cloud solutions. 11th consecutive year in building AWS Cloud Solutions for Customers!
 * **Advisor, Technophile, Engineer, Mentor, Researcher**
-* Broad experience in product strategy, product vision, roadmap and agile project execution
+* Broad experience in product strategy, product vision, roadmap, agile
 * **Hands-on Cloud Architect, Data Architect, Security Architect, Java Architect, DevOps Architect**
 * **Mentored and Coached 100+ Engineers and Architects. Authored 1+ million lines of code in Java and other languages**
 * **Data** expert in AI, Big Data, Data Lake, Lakehouse, Data Engineering, Data Governance
