@@ -33,7 +33,7 @@ I lead, architect, innovate and build secure high-impact software solutions that
 
 ## Work Experience
 ### 2015 to Present
-#### Director/Principal Architect - AWS, AI, Data, Security, DevOps
+#### Principal Architect - AWS, AI, Data, Security, DevOps
 * Spearheaded product roadmaps and strategic initiatives for diverse solutions, aligning engineering efforts with business goals. Led, mentored, and managed 100+ Engineers and Architects to drive significant improvements in delivery speed and quality.
 * Architected secure, multi-tenant AI, Data Lake and Lakehouse solutions, leveraging CSPM and DSPM to mitigate cloud security risks and streamline regulatory compliance.
 * Designed and built an AWS Product Acclerator for Data, Security and DevOps IaC, accelerating the customer deployment journey by 90% (from 2 years to 2 months), Engineered a core library of 150+ AWS Lambda functions to automate complex cloud workflows.
