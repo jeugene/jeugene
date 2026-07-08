@@ -1,6 +1,6 @@
 ## About Me - <a href="https://www.linkedin.com/in/jeugene" target="_blank" rel="noopener noreferrer">Linkedin</a>
 <!--<a href="https://calendly.com/joe-eugene" target="_blank">Book An Appointment</a><br> -->
-Hands-on, customer-obsessed leader, architect and engineer with 21+ years of experience engineering secure, scalable software that transforms visionary concepts into profitable business assets. Expert in data, security, digital transformations, and cloud migrations. Proven mastery in building secure, event-driven, high-throughput, fault-tolerant, resilient, and self-healing distributed cloud solutions, backed by an 11-year consecutive track record of architecting AWS cloud solutions.
+Hands-on, customer-obsessed leader, architect and engineer with 21+ years of experience engineering secure, scalable solutions that transform visionary concepts into profitable business assets. Expert in AI, data, security, digital transformations, and cloud migrations. Proven mastery in building secure, event-driven, high-throughput, fault-tolerant, resilient, and self-healing distributed cloud solutions, backed by an 11-year consecutive track record of architecting AWS cloud solutions.
 * **Advisor, Technophile, Engineer, Mentor, Researcher**
 * Broad experience in product strategy, product vision, roadmap, agile
 * **Hands-on Cloud Architect, Data Architect, Security Architect, Java Architect, DevOps Architect**
